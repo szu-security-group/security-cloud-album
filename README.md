@@ -6,7 +6,7 @@ The project realizes cloud encrypted storage based on client encryption, cloud p
 
 The following is a schematic diagram of the system framework of this project:
 
-![System Architecture](system_architecture.png)
+![System Architecture](system_architecture.PNG)
 
 The project is developed using Java.
 
@@ -23,7 +23,7 @@ The project is developed using Java.
    Use git to clone source code of this project to the local.
 
 ```
-git clone https://github.com/HDSLiang/SCA.git
+git clone https://github.com/szu-security-group/security-cloud-album.git
 ```
 
 3. Install dependencies
