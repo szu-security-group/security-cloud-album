@@ -6,7 +6,7 @@
 
 以下是本项目的系统框架示意图：
 
-![System Architecture](system_architecture.png)
+![System Architecture](system_architecture.PNG)
 
 ## 安装
 
@@ -19,7 +19,7 @@
 接着将项目下载到本地，下载方式为：
 
 ```
-git clone https://github.com/HDSLiang/SCA.git
+git clone https://github.com/szu-security-group/security-cloud-album.git
 ```
 
 ## 使用
